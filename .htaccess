@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RedirectMatch 301 ^(.*)$ http://jatwood.org
